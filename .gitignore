@@ -22,11 +22,7 @@ Thumbs.db
 .build
 node_modules
 .cache
-dist
-assets/**/*.css
 build
-lib
-es
 coverage
 yarn.lock
 package-lock.json
@@ -35,7 +31,7 @@ package-lock.json
 .umi
 .umi-production
 .umi-test
-.env.local 
+.env.local
 
 # dumi
 .dumi/tmp
