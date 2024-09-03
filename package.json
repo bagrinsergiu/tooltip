@@ -1,6 +1,6 @@
 {
   "name": "rc-tooltip",
-  "version": "5.3.1-fix-rc-trigger-v1.1",
+  "version": "5.3.1-fix-rc-trigger-v1.2",
   "description": "React Tooltip",
   "keywords": [
     "react",
@@ -40,7 +40,7 @@
   "dependencies": {
     "@babel/runtime": "^7.11.2",
     "classnames": "^2.3.1",
-    "rc-trigger": "5.2.18"
+    "rc-trigger": "github:bagrinsergiu/trigger#5.3.4-fix-babel-runtime-v1"
   },
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
